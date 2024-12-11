@@ -1,0 +1,1 @@
+"""HackerRank User Data Fetcher package."""
